@@ -1,0 +1,5 @@
+*.cachefile
+*/obj/
+*/bin/
+*.pfx
+Thumbs.db

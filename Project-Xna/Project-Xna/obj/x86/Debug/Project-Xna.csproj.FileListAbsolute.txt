@@ -1,6 +1,0 @@
-d:\users\harvey\documents\visual studio 2010\Projects\Project-Xna\Project-Xna\Project-Xna\bin\x86\Debug\Project-Xna.exe
-d:\users\harvey\documents\visual studio 2010\Projects\Project-Xna\Project-Xna\Project-Xna\bin\x86\Debug\Project-Xna.pdb
-d:\users\harvey\documents\visual studio 2010\Projects\Project-Xna\Project-Xna\Project-Xna\obj\x86\Debug\ResolveAssemblyReference.cache
-d:\users\harvey\documents\visual studio 2010\Projects\Project-Xna\Project-Xna\Project-Xna\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-d:\users\harvey\documents\visual studio 2010\Projects\Project-Xna\Project-Xna\Project-Xna\obj\x86\Debug\Project-Xna.exe
-d:\users\harvey\documents\visual studio 2010\Projects\Project-Xna\Project-Xna\Project-Xna\obj\x86\Debug\Project-Xna.pdb
